@@ -15,8 +15,6 @@ npm install
 npm start
 ```
 
-## Contributing
-------
+## Visit article for step by step learning
 
-## License
-------
+https://www.linkedin.com/pulse/creating-curd-app-node-express-mongo-db-devendra-tata
